@@ -118,7 +118,7 @@ if __name__ == "__main__":
 	elif menu_num == 3:
 		print(menu_3, "\n")
 		print("Nao Esqueca de Inserir a Mensagem Cifrada a Ser Analisada Pelo Algoritmo no Arquivo \"Mensagens/Mensagem_Cifrada.txt\"")
-		filtro_ocorrencias = int(input("\tNumero Minimo de Ocorrencias de Trigramas: "))
+		filtro_ocorrencias = int(input("\tNumero de Ocorrencias de Trigramas Maior Que: "))
 
 		opcao_3(filtro_ocorrencias)
 

@@ -2,6 +2,17 @@
 
 Vigenere Devthumos Tool é uma aplicação Python para cifrar, decifrar e analisar mensagens usando a cifra de Vigenère. A ferramenta também oferece recursos para encontrar tamanhos de chave prováveis e visualizar a distribuição dos grupos de trigramas através do Power BI.
 
+## Tecnologias utilizadas
+
+- Python
+- Git
+
+## Instalação dos requerimentos
+
+1. Certifique-se de ter o Python 3.x instalado em seu computador.
+2. Clone o repositório usando o comando `git clone https://github.com/devthumos/Vigenere.git`
+3. Navegue até a pasta do projeto clonado e instale os requerimentos usando o comando `pip install pandas`
+
 ## Funcionalidades
 
 1. Encriptar: cifra uma mensagem usando a cifra de Vigenère e uma chave fornecida.
@@ -11,7 +22,7 @@ Vigenere Devthumos Tool é uma aplicação Python para cifrar, decifrar e analis
 
 ## Utilização
 
-Ao executar o programa, você verá um menu principal com as seguintes opções:
+Ao executar o script app.py, você verá um menu principal com as seguintes opções:
 
 1. Encriptar
 2. Decriptar
