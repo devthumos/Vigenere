@@ -1,0 +1,8 @@
+## The Kasiski Test
+https://www.youtube.com/watch?v=ZFdsJ4a_3k8
+
+## Breaking the Vigenere Cipher
+https://www.youtube.com/watch?v=P4z3jAOzT9I
+
+## Funcionamento da Cifra de Vigenere
+https://www.youtube.com/watch?v=SkJcmCaHqS0
